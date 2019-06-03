@@ -1,6 +1,4 @@
 # Upload-a-Package-to-PyPi
-This project involves building a Python package and uploading the package to PyPi using object-oriented programming
-The package could calculate both Gaussian and Binomial distributions give a data
 
 
 ## Table of Contents
@@ -17,6 +15,7 @@ The libraries needed to run the code are the Anaconda distribution of Python. Th
 
 ## Project Motivation
 This project involves building a Python package and uploading the package to PyPi using object-oriented programming
+The package could calculate both Gaussian and Binomial distributions give a data
 
 
 
@@ -43,7 +42,7 @@ licence.txt: This contains the package license
 
 
 ## Results
-A package named eko_probability01 was created and uploaded to pypi and can be accessed [here.](https://pypi.org/project/eko-probability01/)
+A package named **eko_probability01** was created and uploaded to pypi and can be accessed [here.](https://pypi.org/project/eko-probability01/)
 
 ## Licensing, Authors, Acknowledgements
 See license [here](https://github.com/A-Nuru/Upload-a-Package-to-PyPi/blob/master/LICENSE)
